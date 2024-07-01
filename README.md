@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @abhaypawa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...full stack web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @AbhayPawar
+👀 I’m interested in front-end development and exploring new web technologies.
+🌱 I’ve completed a full stack web development course
+💻 I have experience with Java and JavaScript
+💞️ I’m looking to collaborate on innovative web development projects
+📫 How to reach me: abhayrpawar123@gmail.com
 
 <!---
 abhaypawa/abhaypawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
