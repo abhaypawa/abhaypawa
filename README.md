@@ -1,7 +1,6 @@
 👋 Hi, I’m @AbhayPawar
 👀 I’m interested in front-end development and exploring new web technologies.
 🌱 I’ve completed a full stack web development course
-💻 I have experience with Java and JavaScript
 💞️ I’m looking to collaborate on innovative web development projects
 📫 How to reach me: abhayrpawar123@gmail.com
 <!---
